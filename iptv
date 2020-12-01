@@ -172,3 +172,7 @@ http://stream.amrbd.com:8082/Deepto-TV/tracks-v1a1/mono.m3u8
 http://stream.amrbd.com:8082/kn16a/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="hindi",sony pal
 http://dx3.gcdn.co/hindi-SONYPAL/index.m3u8
+#EXTINF:-1 group-title="hindi",abxz movie
+https://m-c01-j2apps.s.llnwi.net/hls/5290.SkystarMovies.in.m3u8
+#EXTINF:-1 group-title="hindi",bollywood
+https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in_480p/index.m3u8?@amarnettv.live
