@@ -168,10 +168,8 @@ http://45.249.187.238:8081/hls/live0.m3u8
 http://stream.amrbd.com:8082/Sonyaath/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLA",deepto tv
 http://stream.amrbd.com:8082/Deepto-TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="hindi",colors cineplex hd
-http://stream.amrbd.com:8082/kn16a/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="hindi",sony pal
-http://dx3.gcdn.co/hindi-SONYPAL/index.m3u8
+#EXTINF:-1 group-title="hindi",nick hindi
+http://stream.amrbd.com:8082/nike/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="hindi",abxz movie
 https://m-c01-j2apps.s.llnwi.net/hls/5290.SkystarMovies.in.m3u8
 #EXTINF:-1 group-title="hindi",bollywood
