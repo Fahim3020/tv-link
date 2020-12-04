@@ -90,8 +90,6 @@ http://tv2.ebox.live:8080/live/sonyhd.m3u8
 Http://tv2.ebox.live:8080/live/sony-sab.m3u8
 #EXTINF:-1 group-title="hindi",colors hd
 http://tv2.ebox.live:8080/live/colors.m3u8
-#EXTINF:-1 group-title="hindi",colors ristey
-http://dx3.gcdn.co/hindi-RISHTEY/index.m3u8
 #EXTINF:-1 group-title="BANGLA",channel 24
 http://tv2.ebox.live:8080/live/ch24s1.m3u8
 #EXTINF:-1 group-title="information",national geograpic
@@ -140,8 +138,6 @@ http://103.49.168.172:8081/ebox/in_sangeetbangla/chunks.m3u8
 http://103.49.168.172:8081/ebox/in_tlc_hd/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA",gazi tv
 http://stream.amrbd.com:8082/GAZI/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="hindi",star bharat hd
-http://dx3.gcdn.co/hindi-STARBHARATHD/index.m3u8
 #EXTINF:-1 group-title="BANGLA",71 tv
 http://stream.amrbd.com:8082/Ekattor-tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="hindi",& tv hd
