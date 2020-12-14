@@ -88,6 +88,8 @@ https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8?@IPTVSolution
 #EXTINF:-1 group-title="hindi",& pictures
 http://z5amshls.akamaized.net/andpicssd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="hindi",& pictures hd
+http://stream.amrbd.com:8082/AndPicturesHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="hindi",zee cinema hd
 http://z5amshls.akamaized.net/zcinemahd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="hindi",zee action
