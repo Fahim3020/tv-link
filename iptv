@@ -28,6 +28,12 @@ http://tv2.ebox.live:8080/live/ch24s1.m3u8
 http://tv2.ebox.live:8080/live/banae3.m3u8
 #EXTINF:-1 group-title="BANGLA",atn bangla
 http://tv2.ebox.live:8080/live/ex-atnbd1.m3u8
+#EXTINF:-1 group-title="BANGLA",gazi tv
+http://163.172.29.246:8081/globalbd/gazitv/chunks.m3u8
+#EXTINF:-1 group-title="BANGLA",masranga
+http://ctgiptv.kitv.live:1935/live/test/test1/1.m3u8
+#EXTINF:-1 group-title="BANGLA",71 tv
+http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/11.m3u8
 #EXTINF:-1 group-title="BANGLA",rtv
 http://tv2.ebox.live:8080/live/rtv.m3u8
 #EXTINF:-1 group-title="BANGLA",news 24
@@ -118,6 +124,8 @@ http://z5amshls.akamaized.net/smileusa/tracks-v1a1/index.m3u8
 https://m-c01-j2apps.s.llnwi.net/hls/5290.SkystarMovies.in.m3u8
 #EXTINF:-1 group-title="hindi",bollywood
 https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in_480p/index.m3u8?@amarnettv.live
+#EXTINF:-1 group-title="hindi",nick hindi
+http://tv2.ebox.live:8080/live/nick.m3u8
 #EXTINF:-1 group-title="english",mbc 2
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8?@IPTVSoltion
 #EXTINF:-1 group-title="english",sony movies action
