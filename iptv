@@ -1,7 +1,7 @@
 #EXTINF:-1 group-title="BANGLA",duronto 
 http://ctgiptv.kitv.live:1935/live/ddnfree/ddnfree/12.m3u8
 #EXTINF:-1 group-title="BANGLA",zee bangla hd
-http://ctgiptv.kitv.live:1935/live/ddnfree/ddnfree/26.m3u8
+http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
 #EXTINF:-1 group-title="BANGLA",zee bangla cenima
 http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8?@IPTVSoltuion
 #EXTINF:-1 group-title="BANGLA",ekusey tv
@@ -29,7 +29,7 @@ http://tv2.ebox.live:8080/live/banae3.m3u8
 #EXTINF:-1 group-title="BANGLA",atn bangla
 http://tv2.ebox.live:8080/live/ex-atnbd1.m3u8
 #EXTINF:-1 group-title="BANGLA",gazi tv
-http://163.172.29.246:8081/globalbd/gazitv/chunks.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/6.ts
 #EXTINF:-1 group-title="BANGLA",masranga
 http://ctgiptv.kitv.live:1935/live/test/test1/1.m3u8
 #EXTINF:-1 group-title="BANGLA",71 tv
@@ -62,8 +62,6 @@ http://103.49.168.172:8081/ebox/bd_satv/chunks.m3u8
 http://103.49.168.172:8081/ebox/bbc_news/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA",jamuna tv
 http://tv2.ebox.live:8080/live/ex-jamuna.m3u8
-#EXTINF:-1 group-title="BANGLA",deepto tv
-http://103.49.168.172:8081/ebox/bbc_news/chunks.m3u8
 #EXTINF:-1 group-title="hindi",9x jalwa
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
 #EXTINF:-1 group-title="hindi",9x tashan
@@ -110,14 +108,10 @@ Http://tv2.ebox.live:8080/live/sony-sab.m3u8
 https://z5amshls.akamaized.net/bigmagic/tracks-v2a1/index.m3u8
 #EXTINF:-1 group-title="hindi",colors hd
 http://tv2.ebox.live:8080/live/colors.m3u8
+#EXTINF:-1 group-title="hindi",zing
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/81.ts
 #EXTINF:-1 group-title="hindi",star gold select
 http://tv2.ebox.live:8080/live/star-gold-select.m3u8
-#EXTINF:-1 group-title="hindi",disney channel
-http://otv.ftpbd.net/streams/122/index.m3u8
-#EXTINF:-1 group-title="hindi",cartoon network
-http://otv.ftpbd.net/streams/123/index.m3u8
-#EXTINF:-1 group-title="hindi",utv action
-http://otv.ftpbd.net/streams/124/index.m3u8
 #EXTINF:-1 group-title="hindi",zee smile
 http://z5amshls.akamaized.net/smileusa/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="hindi",abxz movie
@@ -146,25 +140,3 @@ http://tv2.ebox.live:8080/live/natg.m3u8
 http://208.115.215.42/Sony_Six_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="sports",t sport hd
 http://tv2.ebox.live:8080/live/ex-titash2.m3u8
-#EXTINF:-1 group-title="movies",t
-http://fs.ebox.live/Movies/Bollywood/2020/Dil%20Bechara%20[2020]/Dil.Bechara.2020__720p.HDrip__E-BOX.mkv
-#EXTINF:-1 group-title="movies",PART 1
-http://fs.ebox.live/TV-Series/Indian/SCAM%201992%3A%20The%20Harshad%20Mehta%20Story/Season%201/Scam%201992%20The%20Harshad%20Mehta%20Story..S01.EP01.2020.1080p.Sony.Liv.WEB.DL.AAC.2.0.H.264-Telly.mkv
-#EXTINF:-1 group-title="movies",PART 2
-http://fs.ebox.live/TV-Series/Indian/SCAM%201992%3A%20The%20Harshad%20Mehta%20Story/Season%201/Scam%201992%20The%20Harshad%20Mehta%20Story..S01.EP02.2020.1080p.Sony.Liv.WEB.DL.AAC.2.0.H.264-Telly.mkv
-#EXTINF:-1 group-title="movies",PART 3
-http://fs.ebox.live/TV-Series/Indian/SCAM%201992%3A%20The%20Harshad%20Mehta%20Story/Season%201/Scam%201992%20The%20Harshad%20Mehta%20Story..S01.EP03.2020.1080p.Sony.Liv.WEB.DL.AAC.2.0.H.264-Telly.mkv
-#EXTINF:-1 group-title="movies",PART 4
-http://fs.ebox.live/TV-Series/Indian/SCAM%201992%3A%20The%20Harshad%20Mehta%20Story/Season%201/Scam%201992%20The%20Harshad%20Mehta%20Story..S01.EP04.2020.1080p.Sony.Liv.WEB.DL.AAC.2.0.H.264-Telly.mkv
-#EXTINF:-1 group-title="movies",PART 5
-http://fs.ebox.live/TV-Series/Indian/SCAM%201992%3A%20The%20Harshad%20Mehta%20Story/Season%201/Scam%201992%20The%20Harshad%20Mehta%20Story..S01.EP05.2020.1080p.Sony.Liv.WEB.DL.AAC.2.0.H.264-Telly.mkv
-#EXTINF:-1 group-title="movies",PART 6
-http://fs.ebox.live/TV-Series/Indian/SCAM%201992%3A%20The%20Harshad%20Mehta%20Story/Season%201/Scam%201992%20The%20Harshad%20Mehta%20Story..S01.EP06.2020.1080p.Sony.Liv.WEB.DL.AAC.2.0.H.264-Telly.mkv
-#EXTINF:-1 group-title="movies",PART 7
-http://fs.ebox.live/TV-Series/Indian/SCAM%201992%3A%20The%20Harshad%20Mehta%20Story/Season%201/Scam%201992%20The%20Harshad%20Mehta%20Story..S01.EP07.2020.1080p.Sony.Liv.WEB.DL.AAC.2.0.H.264-Telly.mkv
-#EXTINF:-1 group-title="movies",PART 8
-http://fs.ebox.live/TV-Series/Indian/SCAM%201992%3A%20The%20Harshad%20Mehta%20Story/Season%201/Scam%201992%20The%20Harshad%20Mehta%20Story..S01.EP08.2020.1080p.Sony.Liv.WEB.DL.AAC.2.0.H.264-Telly.mkv
-#EXTINF:-1 group-title="movies",PART 9
-http://fs.ebox.live/TV-Series/Indian/SCAM%201992%3A%20The%20Harshad%20Mehta%20Story/Season%201/Scam%201992%20The%20Harshad%20Mehta%20Story..S01.EP09.2020.1080p.Sony.Liv.WEB.DL.AAC.2.0.H.264-Telly.mkv
-#EXTINF:-1 group-title="movies",PART 10
-http://fs.ebox.live/TV-Series/Indian/SCAM%201992%3A%20The%20Harshad%20Mehta%20Story/Season%201/Scam%201992%20The%20Harshad%20Mehta%20Story.S01.EP10.2020.1080p.Sony.Liv.WEB.DL.AAC.2.0.H.264-Telly.mkv
